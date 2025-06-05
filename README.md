@@ -3,22 +3,6 @@
 This project streams MP3 audio from an online radio station and plays it using the **ESP32** and the **MAX98357A I2S DAC amplifier**.
 
 ---
-
-## 🔌 Connections
-
-### Wiring Diagram
-
-MAX98357A ESP32
-========== =====
-Vin --------> 3.3V
-GND --------> GND
-GAIN --------> 3.3V (or GND for lower gain)
-DIN --------> GPIO 25
-LRC (LRCLK) --------> GPIO 26
-BCLK --------> GPIO 27
-
-
-
 ### Connection Table
 
 | MAX98357A Pin | ESP32 Pin | Description                                   |
