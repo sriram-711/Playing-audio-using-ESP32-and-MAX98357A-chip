@@ -1,16 +1,4 @@
 # 🎧 Playing Audio Using ESP32 and MAX98357A Chip
-Note: Ensure your ESP32 is powered properly, and audio output is connected to a speaker or headphones via the MAX98357A.
-
-Libraries Required
-Install the following libraries in the Arduino IDE:
-
-ESP8266Audio by Earle F. Philhower
-
-WiFi (comes with ESP32 board support)
-
-
-
-# 🎧 Playing Audio Using ESP32 and MAX98357A Chip
 
 This project streams MP3 audio from an online radio station and plays it using the **ESP32** and the **MAX98357A I2S DAC amplifier**.
 
